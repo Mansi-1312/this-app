@@ -42,7 +42,7 @@ function App() {
       </form>
     </div>
   </div>
-</nav>
+</nav>  
     </>
     // <div className="App">
     //   <header className="App-header">
